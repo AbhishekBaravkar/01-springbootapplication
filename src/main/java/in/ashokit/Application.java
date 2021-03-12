@@ -27,5 +27,5 @@ public class Application {
 >>>>>>> 88f5ba14b1442c749159333e6a1b88b8e63b9343
 	}
 	
-
+	int i = 10;
 }
